@@ -6,6 +6,10 @@ Homework 2
 * alphabetical_testing - LAST.xlsm is the main file the code was tested on first
 * alphabetical_testing (1).xlsm is another working file code was tested on.	
   * It also worked as a backup for VBA modules.
+* #### I LEFT THE CODE UNCOMMENTED THAT CLEARS CONTENTS AT THE BEGINNING OF THE SCRIPT.
+  * This allowed me to run the step through the script while I was debugging.  
+  * I found the local window was really helpful in letting me see how the loops worked.
+  * It really helped me to see when I needed to move a line before or after a loop.
 
 ### SCREENSHOTS
 * All screenshots are saved in the folder titled "Screenshots of the results"
